@@ -1,0 +1,152 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+游戏目前最后一个攻略的海域，难度很高，适合高练度舰队进行出击。来到这个海域表明主线推图已经到了后期阶段。
+
+难度高自然掉落几乎什么狗粮都出产，掉落种类非常丰富，也包括很多的仅在该海域掉落的打捞限定船。
+
+适合dalao在此捞船、捞狗粮、提升舰队实力或为攻略活动限定海域做准备。
+
+==10-1 极地海峡==
+
+[[文件:NewMap 10-1.jpg|600px|缩略图|10-1 极地海峡]]
+
+*压制任务条件：重巡≥3
+*舰船基础经验值：1160
+*玩家基础经验值：300
+*战利品权重：195/305/455
+
+驻防E点或J点后可以削弱BOSS点配置。
+
+A点为6个木桩战列，可以用于练战术；C点为夜战练级点。当E点和J点全部驻防以后，就能无条件直通A点和C点。
+
+<br clear="all" />
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!! style="width:2em" |阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/A"
+{{#invoke:敌舰2|阵容|10-1/A|A<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/B"
+{{#invoke:敌舰2|阵容|10-1/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/C"
+{{#invoke:敌舰2|阵容|10-1/C|C<br/>夜战}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/D"
+{{#invoke:敌舰2|阵容|10-1/D}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/E"
+{{#invoke:敌舰2|阵容|10-1/E|E<br/>驻防}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/F"
+{{#invoke:敌舰2|阵容|10-1/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/G"
+{{#invoke:敌舰2|阵容|10-1/G}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/H"
+{{#invoke:敌舰2|阵容|10-1/H}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/I"
+{{#invoke:敌舰2|阵容|10-1/I}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/J"
+{{#invoke:敌舰2|阵容|10-1/J|J<br/>驻防}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/K"
+{{#invoke:敌舰2|阵容|10-1/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/L"
+{{#invoke:敌舰2|阵容|10-1/L|L<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/M"
+{{#invoke:敌舰2|阵容|10-1/M}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/N"
+{{#invoke:敌舰2|阵容|10-1/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/O"
+{{#invoke:敌舰2|阵容|10-1/O|O<br/>BOSS}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/O*"
+{{#invoke:敌舰2|阵容|10-1/O*|O*<br/>BOSS}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="10-1/O**"
+{{#invoke:敌舰2|阵容|10-1/O**|O**<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn livid" data-content="10-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="10-1/B">B</div>
+    <div class="stage-main-btn dark" data-content="10-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="10-1/D">D</div>
+    <div class="stage-main-btn red" data-content="10-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="10-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="10-1/G">G</div>
+    <div class="stage-main-btn gray" data-content="10-1/H">H</div>
+    <div class="stage-main-btn gray" data-content="10-1/I">I</div>
+    <div class="stage-main-btn red" data-content="10-1/J">J</div>
+    <div class="stage-main-btn gray" data-content="10-1/K">K</div>
+    <div class="stage-main-btn gray" data-content="10-1/L">L</div>
+    <div class="stage-main-btn gray" data-content="10-1/M">M</div>
+    <div class="stage-main-btn gray" data-content="10-1/N">N</div>
+    <div class="stage-main-btn red" data-content="10-1/O">O</div>
+    <div class="stage-main-btn red" data-content="10-1/O*">O*</div>
+    <div class="stage-main-btn red" data-content="10-1/O**">O**</div>
+
+</div>
+</div>
+
+在E点取得S胜及以上战果后可驻防，驻防后O点敌方配置会更换为O*。
+
+在J点取得S胜及以上战果后可驻防，驻防后O点敌方配置会更换为O**。
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|10-1|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|10-1|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|10-1|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|10-1|5}}
+|}
+
+==地图考据==
+第十章紧接着第九章，9-5的地理位置是在现实的马尔维纳斯群岛（福克兰群岛），那么继续向南就来到了南美洲的最南端——德雷克海峡附近，海峡的对面就是南极大陆。
+
+{| class="wikitable"
+|-
+!10-1
+|-
+|[[File:德雷克海峡.png|250px]]
+|-
+|上方的陆地形状非常好看出来，就是火地岛，偏下方的地方就是南美洲的最南端——合恩角（Cabo de Hornos），面对着德雷克海峡。
+|}
+
+{{总索引|海域}}

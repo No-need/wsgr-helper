@@ -1,0 +1,63 @@
+local tr = { }
+
+tr['图鉴编号'] = 'index'
+tr['星级'] = 'rarity'
+tr['战舰类型'] = 'type'  -- BB/CV/...
+tr['所属'] = 'country'
+tr['战舰序号'] = 'class'  -- XX级X号舰
+tr['火力'] = 'atk'
+tr['火力max'] = 'atkMax'
+tr['装甲'] = 'def'
+tr['装甲max'] = 'defMax'
+tr['鱼雷'] = 'tpd'  -- torpedo
+tr['鱼雷max'] = 'tpdMax'
+tr['对空'] = 'aa'  -- anti-air
+tr['对空max'] = 'aaMax'
+tr['回避'] = 'eva'  -- evasion
+tr['回避max'] = 'evaMax'
+tr['对潜'] = 'as'  -- anti-sub
+tr['对潜max'] = 'asMax'
+tr['索敌'] = 'rec'  -- reconnaissance
+tr['索敌max'] = 'recMax'
+tr['耐久'] = 'hp'
+tr['航速'] = 'speed'
+tr['幸运'] = 'luck'
+tr['射程'] = 'range'
+tr['第1格容量'] = 'cap1'  -- capacity
+tr['第2格容量'] = 'cap2'
+tr['第3格容量'] = 'cap3'
+tr['第4格容量'] = 'cap4'
+tr['装备1'] = 'eq1'  -- equipment
+tr['装备2'] = 'eq2'
+tr['装备3'] = 'eq3'
+tr['装备4'] = 'eq4'
+tr['燃料'] = 'sFuel'  -- supply fuel
+tr['弹药'] = 'sAmmo'
+tr['修理燃料'] = 'rFuel'  -- repair fuel
+tr['修理钢材'] = 'rSteel'
+tr['强化火力'] = 'sAtk'  -- strengthen attack
+tr['强化鱼雷'] = 'sTpd'
+tr['强化装甲'] = 'sDef'
+tr['强化对空'] = 'sAa'
+tr['拆解油'] = 'dFuel'  -- disassamble fuel
+tr['拆解弹'] = 'dAmmo'
+tr['拆解钢'] = 'dSteel'
+tr['拆解铝'] = 'dBaux'
+tr['改造名'] = 'mod'  -- modification
+tr['改造等级'] = 'modLv'
+tr['改造核心种类'] = 'coreType'
+tr['改造核心数量'] = 'coreNum'
+tr['改造燃料'] = 'mFuel'
+tr['改造弹药'] = 'mAmmo'
+tr['改造钢材'] = 'mSteel'
+tr['改造铝材'] = 'mBaux'  -- modification bauxite
+
+tr['轰炸'] = 'bomb'
+tr['命中'] = 'acc'  -- accuracy
+tr['对空补正'] = 'aac'  -- anti-air correction
+tr['耗铝'] = 'baux'
+
+tr['等级'] = 'level'
+tr['立绘编号'] = 'image'
+
+return tr

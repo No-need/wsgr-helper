@@ -1,0 +1,460 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+从本章开始，难度才算真正的起来了，敌方开始出现潜艇，5-5更是前期到达第一个练小船圣地6-1的最后一道坎，对萌新算是有些难度的。
+
+==5-1 塞浦路斯附近海域==
+[[文件:NewMap 5-1.jpg|600px|缩略图|5-1 塞浦路斯附近海域]]
+*压制任务条件：轻巡≥2
+*舰船基础经验值：350
+*玩家基础经验值：90
+*战利品权重：60/100/150
+本关开始出现纯潜艇配置的敌方，纯潜艇节点的索敌判定方式与拥有水面舰艇的节点不同，是将己方舰队反潜舰（轻母、轻巡、雷巡、航巡、驱逐、防驱）的索敌值之和加上基础对潜值之和，与敌方舰队的等级之和相比较。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/A"
+{{#invoke:敌舰2|阵容|5-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/B"
+{{#invoke:敌舰2|阵容|5-1/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/C"
+{{#invoke:敌舰2|阵容|5-1/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/D"
+{{#invoke:敌舰2|阵容|5-1/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/E"
+{{#invoke:敌舰2|阵容|5-1/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/F"
+{{#invoke:敌舰2|阵容|5-1/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/G"
+{{#invoke:敌舰2|阵容|5-1/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-1/H"
+{{#invoke:敌舰2|阵容|5-1/H|H<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="5-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="5-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="5-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="5-1/D">D</div>
+    <div class="stage-main-btn gray" data-content="5-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="5-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="5-1/G">G</div>
+    <div class="stage-main-btn red" data-content="5-1/H">H</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|5-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|5-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|5-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|5-1|5}}
+|}
+
+
+==5-2 克里特附近海域==
+[[文件:NewMap 5-2.jpg|600px|缩略图|5-2 克里特附近海域]]
+*压制任务条件：轻母≥2
+*舰船基础经验值：370
+*玩家基础经验值：100
+*战利品权重：60/100/150
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/A"
+{{#invoke:敌舰2|阵容|5-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/B"
+{{#invoke:敌舰2|阵容|5-2/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/C"
+{{#invoke:敌舰2|阵容|5-2/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/D"
+{{#invoke:敌舰2|阵容|5-2/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/E"
+{{#invoke:敌舰2|阵容|5-2/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/F"
+{{#invoke:敌舰2|阵容|5-2/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/G"
+{{#invoke:敌舰2|阵容|5-2/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/H"
+{{#invoke:敌舰2|阵容|5-2/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/I"
+{{#invoke:敌舰2|阵容|5-2/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-2/J"
+{{#invoke:敌舰2|阵容|5-2/J|J<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="5-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="5-2/B">B</div>
+    <div class="stage-main-btn gray" data-content="5-2/C">C</div>
+    <div class="stage-main-btn gray" data-content="5-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="5-2/E">E</div>
+    <div class="stage-main-btn gray" data-content="5-2/F">F</div>
+    <div class="stage-main-btn gray" data-content="5-2/G">G</div>
+    <div class="stage-main-btn gray" data-content="5-2/H">H</div>
+    <div class="stage-main-btn gray" data-content="5-2/I">I</div>
+    <div class="stage-main-btn red" data-content="5-2/J">J</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|5-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|5-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|5-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|5-2|5}}
+|}
+
+
+==5-3 马耳他附近海域==
+[[文件:NewMap 5-3.jpg|600px|缩略图|5-3 马耳他附近海域]]
+*压制任务条件：重巡≥2
+*舰船基础经验值：400
+*玩家基础经验值：110
+*战利品权重：60/100/150
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/A"
+{{#invoke:敌舰2|阵容|5-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/B"
+{{#invoke:敌舰2|阵容|5-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/C"
+{{#invoke:敌舰2|阵容|5-3/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/D"
+|D||colspan=12|钢+95
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/E"
+{{#invoke:敌舰2|阵容|5-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/F"
+{{#invoke:敌舰2|阵容|5-3/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/G"
+{{#invoke:敌舰2|阵容|5-3/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-3/H"
+{{#invoke:敌舰2|阵容|5-3/H|H<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="5-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="5-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="5-3/C">C</div>
+    <div class="stage-main-btn green" data-content="5-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="5-3/E">E</div>
+    <div class="stage-main-btn gray" data-content="5-3/F">F</div>
+    <div class="stage-main-btn gray" data-content="5-3/G">G</div>
+    <div class="stage-main-btn red" data-content="5-3/H">H</div>
+</div>
+</div>
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|5-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|5-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|5-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|5-3|5}}
+|}
+
+
+==5-4 直布罗陀东部海域==
+[[文件:NewMap 5-4.jpg|600px|缩略图|5-4 直布罗陀东部海域]]
+
+*压制任务条件：驱逐≥3
+*舰船基础经验值：420
+*玩家基础经验值：120
+*战利品权重：60/100/150
+全游戏第一张出现回头沟（G点→E点）的图，注意带路条件判定顺序。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/A"
+{{#invoke:敌舰2|阵容|5-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/B"
+{{#invoke:敌舰2|阵容|5-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/C"
+{{#invoke:敌舰2|阵容|5-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/D"
+{{#invoke:敌舰2|阵容|5-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/E"
+{{#invoke:敌舰2|阵容|5-4/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/F"
+|F||colspan=12|待机
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/G"
+{{#invoke:敌舰2|阵容|5-4/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-4/H"
+{{#invoke:敌舰2|阵容|5-4/H|H<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="5-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="5-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="5-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="5-4/D">D</div>
+    <div class="stage-main-btn gray" data-content="5-4/E">E</div>
+    <div class="stage-main-btn blue" data-content="5-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="5-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="5-4/H">H</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|5-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|5-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|5-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|5-4|5}}
+|}
+
+
+==5-5 直布罗陀要塞==
+[[文件:NewMap 5-5.jpg|600px|缩略图|5-5 直布罗陀要塞]]
+
+*压制任务条件：战巡≥4
+*舰船基础经验值：450
+*玩家基础经验值：150
+*战利品权重：60/100/180
+本关出现新敌人——旗舰。旗舰的耐久和防御都很高，能够放飞机和鱼雷，炮击也不弱，需要认真对付。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/A"
+{{#invoke:敌舰2|阵容|5-5/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/B"
+{{#invoke:敌舰2|阵容|5-5/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/C"
+{{#invoke:敌舰2|阵容|5-5/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/D"
+{{#invoke:敌舰2|阵容|5-5/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/E"
+{{#invoke:敌舰2|阵容|5-5/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/F"
+{{#invoke:敌舰2|阵容|5-5/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/G"
+{{#invoke:敌舰2|阵容|5-5/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/H"
+{{#invoke:敌舰2|阵容|5-5/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="5-5/I"
+{{#invoke:敌舰2|阵容|5-5/I|I<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="5-5/A">A</div>
+    <div class="stage-main-btn gray" data-content="5-5/B">B</div>
+    <div class="stage-main-btn gray" data-content="5-5/C">C</div>
+    <div class="stage-main-btn gray" data-content="5-5/D">D</div>
+    <div class="stage-main-btn gray" data-content="5-5/E">E</div>
+    <div class="stage-main-btn gray" data-content="5-5/F">F</div>
+    <div class="stage-main-btn gray" data-content="5-5/G">G</div>
+    <div class="stage-main-btn gray" data-content="5-5/H">H</div>
+    <div class="stage-main-btn red" data-content="5-5/I">I</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|5-5|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|5-5|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|5-5|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|5-5|5}}
+|}
+
+
+==地图考据==
+在上一章节中，我们也是攻略了苏伊士运河海域，正式进入第五章地中海海域。在这章开始HM开始编都懒得编了，地图名基本是按照现实原型写的，而且地图特征也没有多少细节改动了，所以就直接按照地图名字寻找原型就行。
+
+例常声明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断。
+
+{| class="wikitable"
+
+|-
+! 5-1 !! 5-2 !! 5-3
+|-
+|[[文件:塞浦路斯.png|x200px]]
+|[[文件:克里特海.png|x200px]]
+|[[文件:塔兰托.png|x200px]]
+|-
+|塞浦路斯附近海域，根据名字线索，就可以寻找到原型就是位于塞浦路斯岛的西南部海域，此时我们刚刚从苏伊士运河中功率出来，所以深海首当其冲的就是塞浦路斯海域防线。
+|克里特附近海域，根据岛屿海岸线特征与地图上方的半岛特征，很容易就锁定原型就是克里特海海域。（明明可以走克里特岛南部海域但是偏要在浅水海域大战深海的屑提督）
+|马耳他附近海域，根据半岛特性直接锁定原型就是意大利与西西里岛之间的爱奥尼亚海与埃奥利群岛海域。
+
+在游戏地图里HM对意大利与西西里之间的墨西拿海峡扩展了一个琼州海峡的大小。另外游戏中的F点就是著名的塔兰托军港，游戏内也是固定刷新战巡、重巡以及驱逐。
+
+BOSS点就位于埃奥利群岛海域，也是远古时期B25的唯一刷新地。
+|-
+!5-4 !! 5-5
+|-
+|[[文件:撒丁岛.png|x200px]]
+|[[文件:直布罗陀.png|x200px]]
+|-
+|直布罗陀东部海域，根据岛屿形状很容易就能确认原型就是撒丁岛的西部海域与帕尔马东部海域。游戏地图中最左边的是帕尔马，右边的就是撒丁岛，撒丁岛的上方就是拿皇老家科西嘉岛。
+
+在游戏中我们从拿皇老家出发，一路打到西班牙东侧海域。（前面就是巴塞罗那）
+|直布罗陀要塞，很明显这里指代的就是直布罗陀海峡东侧的阿尔沃兰海海域。
+
+在我们打败了pachina酱，之后，正式进入大西洋。海阔凭鱼跃，天高任鸟飞。
+|}
+
+{{总索引|海域}}

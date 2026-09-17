@@ -1,0 +1,624 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+游戏最后一个可攻略的海域，难度很高，适合高练度舰队进行出击。来到这个海域表明主线推图已经到了后期阶段。
+
+第八章海域该有的要素这里全都有，而且敌人的难度相比于第八章飞跃式上升。在9-1就出现了地图血条，而且在BOSS点中还出现了要塞，这是常规海域首次出现陆基种类的敌人。
+
+难度高自然掉落几乎什么狗粮都出产，掉落种类非常丰富，也包括很多的仅在该海域掉落的打捞限定船。
+
+适合dalao在此捞船、捞狗粮、提升舰队实力或为攻略活动限定海域做准备。
+
+==9-1 地峡外海==
+[[文件:NewMap 9-1.jpg|600px|缩略图|9-1 地峡外海]]
+
+*压制任务条件：驱逐≥2
+*舰船基础经验值：660
+*玩家基础经验值：210
+*战利品权重：110/180/270
+9-1 B、F是二连炸鱼点，并且没有制空要求，也是推图中遇到的第3个优秀炸鱼点。可以在这里让反潜舰快速练级。
+
+<br clear="all" />
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/A"
+{{#invoke:敌舰2|阵容|9-1/A|A<br/>航空战}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/B"
+{{#invoke:敌舰2|阵容|9-1/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/C"
+{{#invoke:敌舰2|阵容|9-1/C}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/D"
+{{#invoke:敌舰2|阵容|9-1/D}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/E"
+{{#invoke:敌舰2|阵容|9-1/E}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/F"
+{{#invoke:敌舰2|阵容|9-1/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/G"
+{{#invoke:敌舰2|阵容|9-1/G}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/H"
+{{#invoke:敌舰2|阵容|9-1/H}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/I"
+{{#invoke:敌舰2|阵容|9-1/I}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/J"
+{{#invoke:敌舰2|阵容|9-1/J}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/K"
+{{#invoke:敌舰2|阵容|9-1/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/L"
+{{#invoke:敌舰2|阵容|9-1/L}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/M"
+{{#invoke:敌舰2|阵容|9-1/M}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/N"
+{{#invoke:敌舰2|阵容|9-1/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-1/O"
+{{#invoke:敌舰2|阵容|9-1/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn light" data-content="9-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="9-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="9-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="9-1/D">D</div>
+    <div class="stage-main-btn gray" data-content="9-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="9-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="9-1/G">G</div>
+    <div class="stage-main-btn gray" data-content="9-1/H">H</div>
+    <div class="stage-main-btn gray" data-content="9-1/I">I</div>
+    <div class="stage-main-btn gray" data-content="9-1/J">J</div>
+    <div class="stage-main-btn gray" data-content="9-1/K">K</div>
+    <div class="stage-main-btn gray" data-content="9-1/L">L</div>
+    <div class="stage-main-btn gray" data-content="9-1/M">M</div>
+    <div class="stage-main-btn gray" data-content="9-1/N">N</div>
+    <div class="stage-main-btn red" data-content="9-1/O">O</div>
+</div>
+</div>
+;地图封锁战况
+
+*封锁战况：敌方旗舰存活时，为所有非旗舰单位提供30%减伤，主力舰装甲-20、火力-20，战斗需要取得S胜才能继续前进（可以通过H点取得S胜削弱）。
+*削弱后：敌方旗舰存活时，为所有非旗舰单位提供10%减伤，战斗需要取得B胜及以上才能继续前进。
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|9-1|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|9-1|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|9-1|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|9-1|5}}
+|}
+
+==9-2 大洋南湾==
+[[文件:NewMap 9-2.jpg|600px|缩略图|9-2 大洋南湾]]
+
+*压制任务条件：战列≥3
+*舰船基础经验值：680
+*玩家基础经验值：220
+*战利品权重：115/185/275
+解除地图封锁的J点硬性要求3潜艇，同时C、F点必须S胜。而迂回点I点的索敌成功值是312，敌方作战航速是33。因此建议编入[[伊-25]]和[[布雷恩]]，以及其他高速护卫舰，C、F点打夜战后迂回I点，4战进入J点。
+
+此外，9-2的整个下半部分地图全是迂回点，非常适合打捞[[战利品]]。
+
+<br clear="all" />
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/A"
+{{#invoke:敌舰2|阵容|9-2/A|A<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/B"
+{{#invoke:敌舰2|阵容|9-2/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/C"
+{{#invoke:敌舰2|阵容|9-2/C}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/D"
+{{#invoke:敌舰2|阵容|9-2/D|D<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/E"
+{{#invoke:敌舰2|阵容|9-2/E}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/F"
+{{#invoke:敌舰2|阵容|9-2/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/G"
+{{#invoke:敌舰2|阵容|9-2/G|G<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/H"
+{{#invoke:敌舰2|阵容|9-2/H|H<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/I"
+{{#invoke:敌舰2|阵容|9-2/I|I<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/J"
+{{#invoke:敌舰2|阵容|9-2/J}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/K"
+{{#invoke:敌舰2|阵容|9-2/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/L"
+{{#invoke:敌舰2|阵容|9-2/L}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/M"
+{{#invoke:敌舰2|阵容|9-2/M|M<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/N"
+{{#invoke:敌舰2|阵容|9-2/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-2/O"
+{{#invoke:敌舰2|阵容|9-2/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn livid" data-content="9-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="9-2/B">B</div>
+    <div class="stage-main-btn gray" data-content="9-2/C">C</div>
+    <div class="stage-main-btn livid" data-content="9-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="9-2/E">E</div>
+    <div class="stage-main-btn gray" data-content="9-2/F">F</div>
+    <div class="stage-main-btn livid" data-content="9-2/G">G</div>
+    <div class="stage-main-btn livid" data-content="9-2/H">H</div>
+    <div class="stage-main-btn livid" data-content="9-2/I">I</div>
+    <div class="stage-main-btn gray" data-content="9-2/J">J</div>
+    <div class="stage-main-btn gray" data-content="9-2/K">K</div>
+    <div class="stage-main-btn gray" data-content="9-2/L">L</div>
+    <div class="stage-main-btn livid" data-content="9-2/M">M</div>
+    <div class="stage-main-btn gray" data-content="9-2/N">N</div>
+    <div class="stage-main-btn red" data-content="9-2/O">O</div>
+</div>
+</div>
+
+;地图封锁战况
+
+*封锁战况：敌方旗舰存活时，为所有非旗舰单位提供50%减伤，主力舰命中-30、回避-30，战斗需要取得S胜才能继续前进（可以通过J点取得S胜削弱）。
+*削弱后：敌方旗舰存活时，为所有非旗舰单位提供10%减伤，战斗需要取得B胜及以上才能继续前进。
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|9-2|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|9-2|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|9-2|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|9-2|5}}
+|}
+
+==9-3 南入海口海域==
+[[文件:NewMap 9-3.jpg|600px|缩略图|9-3 南入海口海域]]
+
+*压制任务条件：战列=6
+*舰船基础经验值：800
+*玩家基础经验值：240
+*战利品权重：120/190/280
+
+解除地图封锁需要在A、D两个航空战点获得S胜，而L点却是第5个战斗点。因此在解封时，需要用[[格罗兹尼]]、[[塞瓦斯托波尔(导弹巡洋舰)|塞瓦斯托波尔]]或者[[351]]启用远程打击，跟随强力航系队伍在航空战就解决两个航空战点的敌人，4战进入L点；或者使用无视弹损的导系队伍5战强打L点。需注意，L点概率刷出潜艇，而导系队伍在先制反潜、炮击战时并不无视弹损，5战时可携带具备后备弹战术或[[吹雪]]等提供固定伤害的反潜船，以提高S胜概率。
+
+此外，9-3 A、D是二连航空战点，是8-2之后第二个航母练级的好去处。
+
+<br clear="all" />
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/A"
+{{#invoke:敌舰2|阵容|9-3/A|A<br/>航空战}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/B"
+{{#invoke:敌舰2|阵容|9-3/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/C"
+{{#invoke:敌舰2|阵容|9-3/C}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/D"
+{{#invoke:敌舰2|阵容|9-3/D|D<br/>航空战}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/E"
+{{#invoke:敌舰2|阵容|9-3/E}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/F"
+{{#invoke:敌舰2|阵容|9-3/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/G"
+{{#invoke:敌舰2|阵容|9-3/G}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/H"
+{{#invoke:敌舰2|阵容|9-3/H}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/I"
+{{#invoke:敌舰2|阵容|9-3/I}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/J"
+{{#invoke:敌舰2|阵容|9-3/J}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/K"
+{{#invoke:敌舰2|阵容|9-3/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/L"
+{{#invoke:敌舰2|阵容|9-3/L}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/M"
+{{#invoke:敌舰2|阵容|9-3/M}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/N"
+{{#invoke:敌舰2|阵容|9-3/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-3/O"
+{{#invoke:敌舰2|阵容|9-3/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn light" data-content="9-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="9-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="9-3/C">C</div>
+    <div class="stage-main-btn light" data-content="9-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="9-3/E">E</div>
+    <div class="stage-main-btn gray" data-content="9-3/F">F</div>
+    <div class="stage-main-btn gray" data-content="9-3/G">G</div>
+    <div class="stage-main-btn gray" data-content="9-3/H">H</div>
+    <div class="stage-main-btn gray" data-content="9-3/I">I</div>
+    <div class="stage-main-btn gray" data-content="9-3/J">J</div>
+    <div class="stage-main-btn gray" data-content="9-3/K">K</div>
+    <div class="stage-main-btn gray" data-content="9-3/L">L</div>
+    <div class="stage-main-btn gray" data-content="9-3/M">M</div>
+    <div class="stage-main-btn gray" data-content="9-3/N">N</div>
+    <div class="stage-main-btn red" data-content="9-3/O">O</div>
+</div>
+</div>
+
+;地图封锁战况
+
+*封锁战况：敌方旗舰存活时，为所有非旗舰单位提供50%减伤，主力舰火力-40、装甲-40，战斗需要取得S胜才能继续前进（可以通过L点取得S胜削弱）。
+*削弱后：敌方旗舰存活时，为所有非旗舰单位提供10%减伤，战斗需要取得B胜及以上才能继续前进。
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|9-3|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|9-3|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|9-3|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|9-3|5}}
+|}
+
+==9-4 河口外海==
+[[文件:NewMap 9-4.jpg|600px|缩略图|9-4 河口外海]]
+
+*压制任务条件：重巡≥4
+*舰船基础经验值：920
+*玩家基础经验值：260
+*战利品权重：135/225/350
+
+9-4 B的阵容是6战列，可以让潜艇去练级。
+
+<br clear="all" />
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/A"
+{{#invoke:敌舰2|阵容|9-4/A}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/B"
+{{#invoke:敌舰2|阵容|9-4/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/C"
+{{#invoke:敌舰2|阵容|9-4/C|C<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/D"
+{{#invoke:敌舰2|阵容|9-4/D|D<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/E"
+{{#invoke:敌舰2|阵容|9-4/E|E<br/>迂回}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/F"
+{{#invoke:敌舰2|阵容|9-4/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/G"
+{{#invoke:敌舰2|阵容|9-4/G}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/H"
+{{#invoke:敌舰2|阵容|9-4/H}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/I"
+{{#invoke:敌舰2|阵容|9-4/I}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/J"
+{{#invoke:敌舰2|阵容|9-4/J}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/K"
+{{#invoke:敌舰2|阵容|9-4/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/L"
+{{#invoke:敌舰2|阵容|9-4/L}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/M"
+{{#invoke:敌舰2|阵容|9-4/M}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/N"
+{{#invoke:敌舰2|阵容|9-4/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-4/O"
+{{#invoke:敌舰2|阵容|9-4/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="9-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="9-4/B">B</div>
+    <div class="stage-main-btn livid" data-content="9-4/C">C</div>
+    <div class="stage-main-btn livid" data-content="9-4/D">D</div>
+    <div class="stage-main-btn livid" data-content="9-4/E">E</div>
+    <div class="stage-main-btn gray" data-content="9-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="9-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="9-4/H">H</div>
+    <div class="stage-main-btn gray" data-content="9-4/I">I</div>
+    <div class="stage-main-btn gray" data-content="9-4/J">J</div>
+    <div class="stage-main-btn gray" data-content="9-4/K">K</div>
+    <div class="stage-main-btn gray" data-content="9-4/L">L</div>
+    <div class="stage-main-btn gray" data-content="9-4/M">M</div>
+    <div class="stage-main-btn gray" data-content="9-4/N">N</div>
+    <div class="stage-main-btn red" data-content="9-4/O">O</div>
+
+</div>
+</div>
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|9-4|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|9-4|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|9-4|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|9-4|5}}
+|}
+
+==9-5 南大洋群岛==
+[[文件:NewMap 9-5.jpg|600px|缩略图|9-5 南大洋群岛]]
+
+*压制任务条件：驱逐≥4
+*舰船基础经验值：1040
+*玩家基础经验值：280
+*战利品权重：155/245/365
+
+9-5 A的阵容是6艘没有攻击力的雷巡（木桩），可以供任意配置练级，或者潜艇练大角度规避战术。
+
+9-5 B、E是二连炸鱼点，可以供反潜舰练级。
+
+<br clear="all" />
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!! style="width:2em" |阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/A"
+{{#invoke:敌舰2|阵容|9-5/A}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/B"
+{{#invoke:敌舰2|阵容|9-5/B}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/C"
+{{#invoke:敌舰2|阵容|9-5/C}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/D"
+{{#invoke:敌舰2|阵容|9-5/D|D<br/>夜战}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/E"
+{{#invoke:敌舰2|阵容|9-5/E}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/F"
+{{#invoke:敌舰2|阵容|9-5/F}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/G"
+{{#invoke:敌舰2|阵容|9-5/G}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/H"
+{{#invoke:敌舰2|阵容|9-5/H}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/I"
+{{#invoke:敌舰2|阵容|9-5/I}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/J"
+{{#invoke:敌舰2|阵容|9-5/J}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/K"
+{{#invoke:敌舰2|阵容|9-5/K}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/L"
+{{#invoke:敌舰2|阵容|9-5/L}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/M"
+{{#invoke:敌舰2|阵容|9-5/M}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/N"
+{{#invoke:敌舰2|阵容|9-5/N}}
+|- style="background-color:#888" 
+| colspan="13" |
+|- id="9-5/O"
+{{#invoke:敌舰2|阵容|9-5/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="9-5/A">A</div>
+    <div class="stage-main-btn gray" data-content="9-5/B">B</div>
+    <div class="stage-main-btn gray" data-content="9-5/C">C</div>
+    <div class="stage-main-btn dark" data-content="9-5/D">D</div>
+    <div class="stage-main-btn gray" data-content="9-5/E">E</div>
+    <div class="stage-main-btn gray" data-content="9-5/F">F</div>
+    <div class="stage-main-btn gray" data-content="9-5/G">G</div>
+    <div class="stage-main-btn gray" data-content="9-5/H">H</div>
+    <div class="stage-main-btn gray" data-content="9-5/I">I</div>
+    <div class="stage-main-btn gray" data-content="9-5/J">J</div>
+    <div class="stage-main-btn gray" data-content="9-5/K">K</div>
+    <div class="stage-main-btn gray" data-content="9-5/L">L</div>
+    <div class="stage-main-btn gray" data-content="9-5/M">M</div>
+    <div class="stage-main-btn gray" data-content="9-5/N">N</div>
+    <div class="stage-main-btn red" data-content="9-5/O">O</div>
+
+</div>
+</div>
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width="80px" |掉落等级!!掉落列表
+|-
+|普通||{{#invoke:掉落|掉落列表|9-5|1}}
+|-
+|少见||{{#invoke:掉落|掉落列表|9-5|3}}
+|-
+|稀有||{{#invoke:掉落|掉落列表|9-5|4}}
+|-
+|限定||{{#invoke:掉落|掉落列表|9-5|5}}
+|}
+
+==地图考据==
+第九章紧接着第八章，而且8-5的名字叫做“地峡海湾”，而9-1叫做“地峡外海”，所以推测地理位置应该不会差太远，8-5的地理位置是在现实的加勒比海西部，所以第九章不出意外应该也会在附近。
+
+常规说明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断。
+
+{| class="wikitable"
+|-
+!9-1!!9-2
+|-
+|[[File:截屏2024-08-20 09.13.27.png|x250px]]
+|[[文件:法术圭亚那.png|x250px]]
+|-
+|9-1的地理位置还是在加勒比海，其位置是在加勒比海的东南方向，也就是如今委内瑞拉的北部海域的卡里亚科海沟。可以看到海岸线形状高度吻合。
+|由于南美洲东岸岛屿屈指可数，9-2的东侧群岛可以直接判断为HM魔改。地图的次要特征有，下方的出海口方向向上，上方存在三角洲地区，同时海岸线的延伸方向为东南方向。经过条件筛选，可以确定地图原型为法属圭亚那的卡宴东北外海域，HM为其魔改了群岛，而上方的三角洲原型应该是法属圭亚那与苏里南的交界河马罗尼河。
+
+热知识，法属圭亚那是作为欧空局的指定发射场，选择热点地区做地图原型应该也是一种规律。
+|-
+!9-3!!9-4
+|-
+|[[文件:Agentine.png|x250px]]
+|[[File:布兰卡港.jpg|x250px]]
+|-
+|整个南美洲海岸真得有上万个出海口，不过根据形状以及海域推测，位置应该是位于阿根廷与乌拉圭交界的拉普拉塔河口，历史上[[斯佩伯爵海军上将]]号的沉没地点。
+|有了9-3的经验，这里就很好找了，就是拉普拉塔河口南方的布兰卡港。不过关卡图里上方的“岛”，在现实中是没有的，左下方的海岸线也与现实有差别。
+|-
+!9-5
+|-
+|[[File:福克兰群岛近海.png|400px]]
+|-
+|9-5的位置继续向南，那么以9-4的布兰卡港继续向南就会来到一个非常有名的地方——福克兰群岛（英国叫法），也被称作马尔维纳斯群岛（阿根廷叫法，简称“马岛”），一战时期1914年12月的福克兰群岛海战，以及阿根廷与英国在1982年爆发的马岛战争地点就在此地。9-5的实际位置就是马岛以西再到南美洲南部麦哲伦海峡这一带。
+|}
+
+{{总索引|海域}}

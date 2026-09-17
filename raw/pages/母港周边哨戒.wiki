@@ -1,0 +1,341 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+
+专为萌新准备的新手海域x4、带路较为简单，没有什么能让人血压升高的沟
+
+{{黑幕|还有一张图？那不算新手图啦……苏大人么，无敌蒙古海军的事，能算不讲理吗？}}
+
+==1-1 母港附近海域==
+[[文件:NewMap_1-1.jpg|600px|缩略图|1-1 母港附近海域]]
+*压制任务条件：无
+*舰船基础经验值：30
+*玩家基础经验值：10
+*战利品权重：0/0/0
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-1/A"
+{{#invoke:敌舰2|阵容|1-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-1/B"
+{{#invoke:敌舰2|阵容|1-1/B|B<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-1/C"
+{{#invoke:敌舰2|阵容|1-1/C}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="1-1/A">A</div>
+    <div class="stage-main-btn red" data-content="1-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="1-1/C">C</div>
+</div>
+</div>
+===掉落===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|1-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|1-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|1-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|1-1|5}}
+|}
+
+==1-2 东北防线海域==
+[[文件:NewMap_1-2.jpg|600px|缩略图|1-2 东北防线海域]]
+*压制任务条件：轻巡≥2
+*舰船基础经验值：50
+*玩家基础经验值：20
+*战利品权重：0/0/0
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-2/A"
+{{#invoke:敌舰2|阵容|1-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-2/B"
+{{#invoke:敌舰2|阵容|1-2/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-2/C"
+{{#invoke:敌舰2|阵容|1-2/C|C<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-2/D"
+{{#invoke:敌舰2|阵容|1-2/D}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="1-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="1-2/B">B</div>
+    <div class="stage-main-btn red" data-content="1-2/C">C</div>
+    <div class="stage-main-btn gray" data-content="1-2/D">D</div>
+</div>
+</div>
+===掉落===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|1-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|1-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|1-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|1-2|5}}
+|}
+
+==1-3 仁州附近海域==
+
+[[文件:NewMap_1-3.jpg|600px|缩略图|1-3 仁州附近海域]]
+*压制任务条件：重巡≥1
+*舰船基础经验值：80
+*玩家基础经验值：30
+*战利品权重：0/0/0
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/A"
+{{#invoke:敌舰2|阵容|1-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/B"
+{{#invoke:敌舰2|阵容|1-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/C"
+|C||colspan=12|弹+15
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/D"
+{{#invoke:敌舰2|阵容|1-3/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/E"
+{{#invoke:敌舰2|阵容|1-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-3/F"
+{{#invoke:敌舰2|阵容|1-3/F|F<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="1-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="1-3/B">B</div>
+    <div class="stage-main-btn green" data-content="1-3/C">C</div>
+    <div class="stage-main-btn gray" data-content="1-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="1-3/E">E</div>
+    <div class="stage-main-btn red" data-content="1-3/F">F</div>
+</div>
+</div>
+===掉落===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|1-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|1-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|1-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|1-3|5}}
+|}
+
+==1-4 深海仁州基地==
+
+[[文件:NewMap_1-4.jpg|600px|缩略图|1-4 深海仁州基地]]
+*压制任务条件：轻母≥1
+*舰船基础经验值：120
+*玩家基础经验值：40
+*战利品权重：0/0/0
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/A"
+{{#invoke:敌舰2|阵容|1-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/B"
+{{#invoke:敌舰2|阵容|1-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/C"
+{{#invoke:敌舰2|阵容|1-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/D"
+{{#invoke:敌舰2|阵容|1-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/E"
+{{#invoke:敌舰2|阵容|1-4/E|E<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/F"
+{{#invoke:敌舰2|阵容|1-4/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-4/G"
+|G||colspan=12|待机
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="1-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="1-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="1-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="1-4/D">D</div>
+    <div class="stage-main-btn red" data-content="1-4/E">E</div>
+    <div class="stage-main-btn gray" data-content="1-4/F">F</div>
+    <div class="stage-main-btn blue" data-content="1-4/G">G</div>
+</div>
+</div>
+===掉落===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|1-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|1-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|1-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|1-4|5}}
+|}
+
+==1-5 乌兰○托附近水域==
+
+[[文件:NewMap_1-5.jpg|600px|缩略图|1-5 乌兰○托附近水域]]
+*压制任务条件：无
+*舰船基础经验值：0
+*玩家基础经验值：0
+*战利品权重：0/0/0
+
+这图没有道中，没有分叉，没有带路，没有掉落，没有任务，也没有经验。萌新第一次打通之后会通过邮件获得你游迄今为止唯一（以后大概也不会有第二位）的蒙古舰娘[[苏赫巴托尔]]。{{黑幕|为什么是邮件呢，因为走海路运不过来（确信）}}
+
+每天限打三次{{黑幕|欺负苏大人}}，打第四次就会有3艘歼星舰出来教你如何做人。{{黑幕|但对大佬来说，即使是3艘歼星舰也只是用来测试队伍强度的沙包罢了。}}
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-5/A"
+{{#invoke:敌舰2|阵容|1-5/A|A<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="1-5/A*"
+{{#invoke:敌舰2|阵容|1-5/A*|A*<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn red" data-content="1-5/A">A</div>
+    <div class="stage-main-btn red" data-content="1-5/A*">A*</div>
+</div>
+</div>
+
+一天内击破3次A点后，A点敌方配置会更换为A*。在2023年6月后，A*敌方配置不再强制锁定最低10血。
+===掉落===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|1-5|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|1-5|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|1-5|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|1-5|5}}
+|}
+==地图考据==
+
+虽然你游的港口是以斯洛文尼亚的皮兰港为原型设计的，但是整个亚得里亚海周边都找不到一段能跟一章地图对的上的海岸线，所以基本可以排除一章地图位于前南斯拉夫或者意大利的可能性。
+
+考虑到一章里出现了仁州这样的地名，二章出现了扶桑，三章又出现了星洲，而这三个地名又很容易让人联想到仁川、日本和新加坡。这三个地方都位于东亚，相距并不远。再考虑到你游是个中国游戏，所以四舍五入，拿中国沿海作为出发地的可能性极高。
+
+{| class="wikitable" style="width:50%"
+|-
+! 1-1 !! 1-2 !! 1-3 
+|-
+| [[文件:1-1原型.png|x250px]] 
+| [[文件:1-2原型.png|x250px]] 
+| [[文件:1-3原型.png|x250px]] 
+|-
+|按照出发地应当在中国沿海这一推断排查海岸线，发现以宁波为中心，北到上海浦东，南到宁波象山港这一带的海岸线形状和1-1高度吻合，如右图。
+
+图中左侧蓝色线条为高亮的海岸线，左上为上海市的浦东地区，左中的海域为杭州湾，左下的海湾为宁波市的象山港。可以看出，如果将舟山群岛和其他岛屿移除，则在图片所截出的范围内，海岸线的形状与1-1地图左侧的两端海岸线相当一致。因此，这一带应当就是你游在绘制1-1地图时所参考的原型。
+
+按照这一推论，1-1的出发点恰好位于杭州湾南岸外海，也就是现实中舟山群岛的位置。而舟山群岛是个什么地方呢？国内少数几个全部位于岛屿之上的群岛城市之一、天然深水良港、宁波-舟山港的重要组成部分，以及{{黑幕|PLAN东海舰队基地}}。 
+|这张没法考证，除了海还是海，完全没有任何参照。仅有的可以辅助猜测的信息就是地图名称里的“东北”，以及1-3考证出来在韩国西南。
+
+如果假设常规图不会跃迁，那么本着不要制造困难的奥卡姆剃刀法则，1-2在地理上应当位于1-1和1-3之间，也就是舟山东北的东海和黄海中的某个地方。图中央的青色方块是假设不绕远情况下的最可能区域。
+|地图名称中的“仁州”是推测的关键。“仁州”这个名字很容易让人联想到仁川，而且仁川这地方在历史上也确实叫过“仁州”之名，朝鲜半岛西侧朝西的海岸线也跟地图相符。由此可以推断，这张地图肯定位于朝鲜半岛沿海的某个地方。
+
+但是很显然仁川周边是没有地图上那样的海岸线的。地图上右下角一段孤立的海岸线怎么看都像个岛，而济州海峡两岸的全罗南道和济州岛恰好符合这一特征，如图。
+
+讲个笑话，离仁川二百多海里的“仁州附近海域”。
+
+{{黑幕|从舟山开到济州也用不上三百海里。不到三百海里塞了三张图，然后第四张图直接飞出两百多海里，大概仁川的深海是猪突进去的}}
+|-
+!  1-4 !! 1-5 
+|-
+| [[文件:1-4原型.png|x250px]] 
+| [[文件:1-5原型.png|x250px]]
+|-
+|“深海仁州基地”，这个名字很容易让人感觉就在仁川，事实上也确实差不多。只不过从海岸线上来看，你游画出来的范围已经远远超出了仁川广域市的范围，甚至都跨过了三八线。
+
+图中的海岸线已经用蓝线标出。上方的海岸线分属于朝鲜的海州、延安（真叫这名）和开城，而下方的海岸线已经延伸到了韩国的水原、天安（就是天安号事件里面那艘倒霉船的命名地）和泰安（真叫这名+1）。换句话说，泥萌把以仁川为中心的整个海湾都画进了地图里。至于那一地岛屿，当然也一律忽略不计了。
+
+{{黑幕|事实上图中西北方向的一大片岛屿都是韩朝争议地区，著名的延坪岛就在此区域，天安号事件也是发生于此。你游用一手通通砸烂从根源上规避了可能的争议，还极大地减少了地图绘制工作量，属实一箭双雕（赞赏）}}
+| 总之这张图就离谱。不仅不是海，甚至都不在乌兰巴托附近。
+
+乌兰〇托，显然就是蒙古国首都乌兰巴托，这一点毫无疑问。但乌兰巴托周边根本就没有什么像样的水域。在整个蒙古国范围内，跟地图最像的地方应该是位于蒙古西北部边境省份库苏古尔省的库苏古尔湖。
+
+{{黑幕|乌兰○托附近水域这个名字来自一篇钓鱼文《波澜壮阔的乌兰巴托大海战（又称2.29海战）》，参见[[苏赫巴托尔]]词条}}
+
+{{黑幕|实际地图跟游戏地图方位对不上？你把脑袋扭一扭他不就正了（正论）}}
+|}
+
+{{总索引|海域}}

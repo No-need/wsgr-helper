@@ -1,0 +1,351 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+总体来说难度较为平衡的一个海域，因为难度不算很高而且没什么苛刻的带路条件所以没啥印象，其中3-2是做第三章周常任务的地点。
+
+其中3-3的压制任务算是萌新遇到的第一个较难的任务，可能需要花一些时间积累实力才能完成。
+
+==3-1 母港南部海域==
+[[文件:NewMap 3-1.jpg|600px|缩略图|3-1 母港南部海域]]
+*压制任务条件：战巡≥1
+*舰船基础经验值：150
+*玩家基础经验值：30
+*战利品权重：30/50/70
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/A"
+{{#invoke:敌舰2|阵容|3-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/B"
+{{#invoke:敌舰2|阵容|3-1/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/C"
+|C||colspan=12|弹+45
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/D"
+{{#invoke:敌舰2|阵容|3-1/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/E"
+|E||colspan=12|待机
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/F"
+{{#invoke:敌舰2|阵容|3-1/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/G"
+{{#invoke:敌舰2|阵容|3-1/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/H"
+{{#invoke:敌舰2|阵容|3-1/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-1/I"
+{{#invoke:敌舰2|阵容|3-1/I|I<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="3-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="3-1/B">B</div>
+    <div class="stage-main-btn green" data-content="3-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="3-1/D">D</div>
+    <div class="stage-main-btn blue" data-content="3-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="3-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="3-1/G">G</div>
+    <div class="stage-main-btn gray" data-content="3-1/H">H</div>
+    <div class="stage-main-btn red" data-content="3-1/I">I</div>
+</div>
+</div>
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|3-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|3-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|3-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|3-1|5}}
+|}
+
+==3-2 东南群岛（1）==
+[[文件:NewMap 3-2.jpg|600px|缩略图|3-2 东南群岛（1）]]
+*压制任务条件：驱逐=6
+*舰船基础经验值：180
+*玩家基础经验值：50
+*战利品权重：30/50/70
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/A"
+{{#invoke:敌舰2|阵容|3-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/B"
+{{#invoke:敌舰2|阵容|3-2/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/C"
+{{#invoke:敌舰2|阵容|3-2/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/D"
+{{#invoke:敌舰2|阵容|3-2/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/E"
+{{#invoke:敌舰2|阵容|3-2/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/F"
+|F||colspan=12|钢+50
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-2/G"
+{{#invoke:敌舰2|阵容|3-2/G|G<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="3-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="3-2/B">B</div>
+    <div class="stage-main-btn gray" data-content="3-2/C">C</div>
+    <div class="stage-main-btn gray" data-content="3-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="3-2/E">E</div>
+    <div class="stage-main-btn green" data-content="3-2/F">F</div>
+    <div class="stage-main-btn red" data-content="3-2/G">G</div>
+</div>
+</div>
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|3-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|3-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|3-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|3-2|5}}
+|}
+
+==3-3 东南群岛（2）==
+[[文件:NewMap 3-3.jpg|600px|缩略图|3-3 东南群岛（2）]]
+*压制任务条件：航母≥4
+*舰船基础经验值：220
+*玩家基础经验值：70
+*战利品权重：30/50/70
+
+本关第一次出现迂回点，可以消耗10%燃料做一次判定，成功率与敌我作战航速的差距有关，判定成功后可以跳过这个节点的战斗。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/A"
+{{#invoke:敌舰2|阵容|3-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/B"
+{{#invoke:敌舰2|阵容|3-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/C"
+{{#invoke:敌舰2|阵容|3-3/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/D"
+{{#invoke:敌舰2|阵容|3-3/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/E"
+{{#invoke:敌舰2|阵容|3-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/F"
+{{#invoke:敌舰2|阵容|3-3/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/G"
+{{#invoke:敌舰2|阵容|3-3/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/H"
+{{#invoke:敌舰2|阵容|3-3/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/I"
+|I||colspan=12|铝+55
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/J"
+{{#invoke:敌舰2|阵容|3-3/J|J<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-3/K"
+{{#invoke:敌舰2|阵容|3-3/K|K<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="3-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="3-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="3-3/C">C</div>
+    <div class="stage-main-btn gray" data-content="3-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="3-3/E">E</div>
+    <div class="stage-main-btn gray" data-content="3-3/F">F</div>
+    <div class="stage-main-btn gray" data-content="3-3/G">G</div>
+    <div class="stage-main-btn gray" data-content="3-3/H">H</div>
+    <div class="stage-main-btn green" data-content="3-3/I">I</div>
+    <div class="stage-main-btn livid" data-content="3-3/J">J</div>
+    <div class="stage-main-btn red" data-content="3-3/K">K</div>
+</div>
+</div>
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|3-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|3-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|3-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|3-3|5}}
+|}
+
+==3-4 星洲海峡==
+[[文件:NewMap 3-4.jpg|600px|缩略图|3-4 星洲海峡]]
+*压制任务条件：轻巡≥3
+*舰船基础经验值：300
+*玩家基础经验值：90
+*战利品权重：30/50/70
+
+<br clear="all"/>
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/A"
+{{#invoke:敌舰2|阵容|3-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/B"
+{{#invoke:敌舰2|阵容|3-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/C"
+{{#invoke:敌舰2|阵容|3-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/D"
+{{#invoke:敌舰2|阵容|3-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/E"
+|E||colspan=12|待机
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/F"
+|F||colspan=12|铝+60
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/G"
+{{#invoke:敌舰2|阵容|3-4/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/H"
+{{#invoke:敌舰2|阵容|3-4/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/I"
+{{#invoke:敌舰2|阵容|3-4/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="3-4/J"
+{{#invoke:敌舰2|阵容|3-4/J|J<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="3-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="3-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="3-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="3-4/D">D</div>
+    <div class="stage-main-btn blue" data-content="3-4/E">E</div>
+    <div class="stage-main-btn green" data-content="3-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="3-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="3-4/H">H</div>
+    <div class="stage-main-btn gray" data-content="3-4/I">I</div>
+    <div class="stage-main-btn red" data-content="3-4/J">J</div>
+</div>
+</div>
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|3-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|3-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|3-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|3-4|5}}
+|}
+
+==地图考据==
+第三章，从南部海域到达星洲海峡（马六甲海峡），那这一段路就非常的显而易见了，基本航路是沿着九段线下去的。（下南洋）
+
+考据声明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断
+{| class="wikitable"
+|-
+! 3-1 !! 3-2
+|-
+|[[文件:东沙.png|x250px]]
+|[[文件:邦基.png|x250px]]
+|-
+|母港南部海域，结合游戏地图岛屿小偷才露尖尖角，很容易就判断原型为台湾高雄外海与东沙群岛海域，不过HM对岛海岸线做了修改。
+|东南群岛，于是按照名字为线索，很快就找到了位于马来西亚古达省的邦吉岛海域，基本符合游戏地图其海峡特征。不过游戏内将邦吉岛与大马本岛连接成一块了。海峡现实中连通中国南海与苏禄海。
+|-
+! 3-3 !! 3-4
+|-
+|[[文件:哥打基纳巴卢.png|x250px]]
+|[[文件:新加坡.png|x250px]]
+|-
+|东南群岛第二部分，根据上图的引导，结合游戏的陆地海岸线，同样很快锁定原型位于马来西亚哥打基纳巴卢外海域。
+|星洲海峡，最简单的一集，原型就是马六甲海峡。你游甚至为了体现“海峡”还把新加坡外面印尼的几个岛全给删了。
+|}
+
+{{总索引|海域}}

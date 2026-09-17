@@ -1,0 +1,451 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+首个在开服后追加的常规关卡，来到这里就表示正式进入常规关卡的中期进程。
+
+相较前五章海域而言，本章在海域环境上更加复杂，如路线分歧繁多、带路条件严苛、敌舰编队强度直线上升。
+
+==6-1 洛里昂南部海域==
+[[文件:NewMap 6-1.jpg|600px|缩略图|6-1 洛里昂南部海域]]
+
+*压制任务条件：重巡≥2
+*舰船基础经验值：400
+*玩家基础经验值：100
+*战利品权重：70/110/160
+
+6-1A是玩家碰到的第一个“炸鱼点”。由于先制反潜不会“鞭尸”，这些敌军配置以潜艇为主的出门点能够让可反潜船（驱逐、轻巡、轻母、防驱）无损练级——只要携带好反潜套装（轻母装备高对潜飞机，其余装备1个反潜装备与多个高对潜声纳）即可。
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/A"
+{{#invoke:敌舰2|阵容|6-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/B"
+{{#invoke:敌舰2|阵容|6-1/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/C"
+{{#invoke:敌舰2|阵容|6-1/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/D"
+{{#invoke:敌舰2|阵容|6-1/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/E"
+{{#invoke:敌舰2|阵容|6-1/E|E<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/F"
+{{#invoke:敌舰2|阵容|6-1/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/G"
+{{#invoke:敌舰2|阵容|6-1/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/H"
+{{#invoke:敌舰2|阵容|6-1/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/I"
+{{#invoke:敌舰2|阵容|6-1/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/J"
+|J||colspan=12|油+100
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/K"
+{{#invoke:敌舰2|阵容|6-1/K|K<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-1/L"
+|L||colspan=12|油-100
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="6-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="6-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="6-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="6-1/D">D</div>
+    <div class="stage-main-btn livid" data-content="6-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="6-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="6-1/G">G</div>
+    <div class="stage-main-btn gray" data-content="6-1/H">H</div>
+    <div class="stage-main-btn gray" data-content="6-1/I">I</div>
+    <div class="stage-main-btn green" data-content="6-1/J">J</div>
+    <div class="stage-main-btn red" data-content="6-1/K">K</div>
+    <div class="stage-main-btn purple" data-content="6-1/L">L</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过I点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+或者：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得A胜以下无法前进（可以通过E点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰暴击率+10%，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|6-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|6-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|6-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|6-1|5}}
+|}
+
+==6-2 英吉利海峡==
+[[文件:NewMap 6-2.jpg|600px|缩略图|6-2 英吉利海峡]]
+*压制任务条件：轻巡≥2
+*舰船基础经验值：410
+*玩家基础经验值：110
+*战利品权重：70/110/160
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/A"
+{{#invoke:敌舰2|阵容|6-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/B"
+{{#invoke:敌舰2|阵容|6-2/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/C"
+{{#invoke:敌舰2|阵容|6-2/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/D"
+{{#invoke:敌舰2|阵容|6-2/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/E"
+{{#invoke:敌舰2|阵容|6-2/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/F"
+{{#invoke:敌舰2|阵容|6-2/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/G"
+{{#invoke:敌舰2|阵容|6-2/G|G<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/H"
+{{#invoke:敌舰2|阵容|6-2/H|H<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/I"
+{{#invoke:敌舰2|阵容|6-2/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/J"
+{{#invoke:敌舰2|阵容|6-2/J|J<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/K"
+{{#invoke:敌舰2|阵容|6-2/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/L"
+{{#invoke:敌舰2|阵容|6-2/L}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-2/M"
+{{#invoke:敌舰2|阵容|6-2/M|M<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="6-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="6-2/B">B</div>
+    <div class="stage-main-btn gray" data-content="6-2/C">C</div>
+    <div class="stage-main-btn gray" data-content="6-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="6-2/E">E</div>
+    <div class="stage-main-btn gray" data-content="6-2/F">F</div>
+    <div class="stage-main-btn livid" data-content="6-2/G">G</div>
+    <div class="stage-main-btn livid" data-content="6-2/H">H</div>
+    <div class="stage-main-btn gray" data-content="6-2/I">I</div>
+    <div class="stage-main-btn livid" data-content="6-2/J">J</div>
+    <div class="stage-main-btn gray" data-content="6-2/K">K</div>
+    <div class="stage-main-btn gray" data-content="6-2/L">L</div>
+    <div class="stage-main-btn red" data-content="6-2/M">M</div>    
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过J点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰暴击率+10%，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|6-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|6-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|6-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|6-2|5}}
+|}
+
+==6-3 斯卡帕湾==
+[[文件:NewMap 6-3.jpg|600px|缩略图|6-3 斯卡帕湾]]
+*压制任务条件：驱逐≥2
+*舰船基础经验值：420
+*玩家基础经验值：120
+*战利品权重：70/110/160
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/A"
+{{#invoke:敌舰2|阵容|6-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/B"
+{{#invoke:敌舰2|阵容|6-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/C"
+{{#invoke:敌舰2|阵容|6-3/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/D"
+{{#invoke:敌舰2|阵容|6-3/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/E"
+{{#invoke:敌舰2|阵容|6-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/F"
+{{#invoke:敌舰2|阵容|6-3/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/G"
+|G||colspan=12|弹-100
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/H"
+{{#invoke:敌舰2|阵容|6-3/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/I"
+|I||colspan=12|弹+100
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-3/J"
+{{#invoke:敌舰2|阵容|6-3/J|J<br/>BOSS}}
+|}
+</div>
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="6-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="6-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="6-3/C">C</div>
+    <div class="stage-main-btn gray" data-content="6-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="6-3/E">E</div>
+    <div class="stage-main-btn gray" data-content="6-3/F">F</div>
+    <div class="stage-main-btn purple" data-content="6-3/G">G</div>
+    <div class="stage-main-btn gray" data-content="6-3/H">H</div>
+    <div class="stage-main-btn green" data-content="6-3/I">I</div>
+    <div class="stage-main-btn red" data-content="6-3/J">J</div>  
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过D点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+或者：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得A胜以下无法前进（可以通过B点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰暴击率+10%，大型船装甲+15，中型船命中+15，小型船闪避+15
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|6-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|6-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|6-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|6-3|5}}
+|}
+
+==6-4 丹麦海峡==
+[[文件:NewMap 6-4.jpg|600px|缩略图|6-4 丹麦海峡]]
+
+*压制任务条件：战巡≥2
+*舰船基础经验值：500
+*玩家基础经验值：150
+*战利品权重：80/120/200
+
+这个图的F点是第一个纯潜艇配置的迂回点，纯潜艇节点的索敌判定方式与拥有水面舰艇的节点不同，是将己方舰队反潜舰（轻母、轻巡、雷巡、航巡、驱逐、防驱）的索敌值之和加上基础对潜值之和，与敌方舰队的等级之和相比较。因此需要编入更多的反潜舰才能在F点索敌成功。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/A"
+{{#invoke:敌舰2|阵容|6-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/B"
+{{#invoke:敌舰2|阵容|6-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/C"
+{{#invoke:敌舰2|阵容|6-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/D"
+{{#invoke:敌舰2|阵容|6-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/E"
+{{#invoke:敌舰2|阵容|6-4/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/F"
+{{#invoke:敌舰2|阵容|6-4/F|F<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/G"
+{{#invoke:敌舰2|阵容|6-4/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/H"
+{{#invoke:敌舰2|阵容|6-4/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/I"
+{{#invoke:敌舰2|阵容|6-4/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/J"
+|J||colspan=12|弹+100
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/K"
+{{#invoke:敌舰2|阵容|6-4/K|K<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="6-4/L"
+{{#invoke:敌舰2|阵容|6-4/L}}
+|}
+</div>
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="6-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="6-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="6-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="6-4/D">D</div>
+    <div class="stage-main-btn gray" data-content="6-4/E">E</div>
+    <div class="stage-main-btn livid" data-content="6-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="6-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="6-4/H">H</div>
+    <div class="stage-main-btn gray" data-content="6-4/I">I</div>
+    <div class="stage-main-btn green" data-content="6-4/J">J</div>
+    <div class="stage-main-btn red" data-content="6-4/K">K</div>
+    <div class="stage-main-btn gray" data-content="6-4/L">L</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过D点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+或者：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得S胜以下无法前进（可以通过F点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰暴击率+10%，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|6-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|6-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|6-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|6-4|5}}
+|}
+
+==地图考据==
+那么上一章节我们也是攻略了直布罗陀海峡，来到了北大西洋地区。在这一章节中HM延续了上一章节的懒人作风，地图名字基本符合三次元世界命名。
+
+常规说明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断。
+
+{| class="wikitable"
+|-
+! 6-1 
+! colspan=2 | 6-2
+|-
+|[[文件:洛里昂.png|x200px]]
+|colspan=2|[[文件:英吉利.png|x200px]]
+|-
+|洛里昂南部海域，根据地图名称也是很快就锁定了洛里昂的南部海域地区，该地区海岸线确实与游戏地图大致对应上。
+
+热知识，作为法国西海岸重要的港口城市，这里也是二战中德国海军重要的潜艇基地，所以第六章我们直奔此地是有理由的。
+|colspan=2|英吉利海峡，就如其名，原型就是英吉利海峡。
+
+“海峡冲刺”，选择舰船-沙恩霍斯特，选择技能-默默速行，行动胜率100% ——来自Wargaming Game Center出装选择
+|-
+! 6-3 
+! colspan=2 | 6-4
+|-
+|[[文件:苏格兰.png|x200px]]
+|[[文件:丹麦海峡.png|x200px]]
+|[[文件:莱茵.png|x200px]]
+|-
+|斯卡帕湾，地图海域位于苏格兰北部、奥克尼群岛的西部海域。
+| colspan=2 |丹麦海峡，原型位于格陵兰岛的东部海域与冰岛的西南海域。
+
+游戏中的航路布置就是现世中的猎杀[[俾斯麦]]，BOSS点正好是在俾斯麦沉没点附近。
+
+另外该海域也是《冰冷海域》，CMO等军事模拟游戏的老家了。
+|}
+
+{{总索引|海域}}

@@ -1,0 +1,619 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+新手房之后的第二章，一共包括六张地图。本章地图开始出现较为复杂的带路条件，第一章那样无脑编队就能打的情况不复存在。
+
+其中2-1到2-4属于按顺序开启的正常地图，完成2-4之后即会开启3-1；而2-5和2-6则不属于这一序列，需要通关5-5以后的地图才能开启，是否通关也不影响主线的推图，因此前期打过2-4直接前往3-1即可。
+
+至于2-5和2-6这两张图，本质上是通关5-5以后的奖励关卡。2-5有许多只有特定点位才会掉落的舰船，需要特别注意。
+
+==2-1 扶桑西部海域==
+
+[[文件:NewMap 2-1.jpg|600px|缩略图|2-1 扶桑西部海域]]
+*压制任务条件：战列≥1
+*舰船基础经验值：100
+*玩家基础经验值：20
+*战利品权重：15/30/40
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/A"
+{{#invoke:敌舰2|阵容|2-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/B"
+|B || colspan=12 | 待机 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/C"
+{{#invoke:敌舰2|阵容|2-1/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/D"
+|B || colspan=12 | 待机 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/E"
+{{#invoke:敌舰2|阵容|2-1/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-1/F"
+{{#invoke:敌舰2|阵容|2-1/F|F<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-1/A">A</div>
+    <div class="stage-main-btn blue" data-content="2-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="2-1/C">C</div>
+    <div class="stage-main-btn blue" data-content="2-1/D">D</div>
+    <div class="stage-main-btn gray" data-content="2-1/E">E</div>
+    <div class="stage-main-btn red" data-content="2-1/F">F</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过A点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-1|5}}
+|}
+==2-2 扶桑西南海域==
+
+[[文件:NewMap 2-2.jpg|600px|缩略图|2-2 扶桑西南海域]]
+*压制任务条件：航母≥1
+*舰船基础经验值：120
+*玩家基础经验值：30
+*战利品权重：20/30/40
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/A"
+{{#invoke:敌舰2|阵容|2-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/B"
+{{#invoke:敌舰2|阵容|2-2/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/C"
+|C||colspan=12|油+30
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/D"
+|D||colspan=12|油-30
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/E"
+{{#invoke:敌舰2|阵容|2-2/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/F"
+{{#invoke:敌舰2|阵容|2-2/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/G"
+{{#invoke:敌舰2|阵容|2-2/G|G<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-2/H"
+{{#invoke:敌舰2|阵容|2-2/H}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-2/A">A</div>
+    <div class="stage-main-btn gray" data-content="2-2/B">B</div>
+    <div class="stage-main-btn green" data-content="2-2/C">C</div>
+    <div class="stage-main-btn purple" data-content="2-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="2-2/E">E</div>
+    <div class="stage-main-btn gray" data-content="2-2/F">F</div>
+    <div class="stage-main-btn red" data-content="2-2/G">G</div>
+    <div class="stage-main-btn gray" data-content="2-2/H">H</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过A点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-2|5}}
+|}
+
+==2-3 扶桑南部海域==
+
+[[文件:NewMap 2-3.jpg|600px|缩略图|2-3 扶桑南部海域]]
+*压制任务条件：驱逐≥3
+*舰船基础经验值：150
+*玩家基础经验值：40
+*战利品权重：20/30/40
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/A"
+{{#invoke:敌舰2|阵容|2-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/B"
+{{#invoke:敌舰2|阵容|2-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/C"
+{{#invoke:敌舰2|阵容|2-3/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/D"
+{{#invoke:敌舰2|阵容|2-3/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/E"
+{{#invoke:敌舰2|阵容|2-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/F"
+|F||colspan=12|油+35
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/G"
+{{#invoke:敌舰2|阵容|2-3/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/H"
+{{#invoke:敌舰2|阵容|2-3/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/I"
+|I||colspan=12|弹-35
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/J"
+{{#invoke:敌舰2|阵容|2-3/J|J<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-3/K"
+|K||colspan=12|待机
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="2-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="2-3/C">C</div>
+    <div class="stage-main-btn gray" data-content="2-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="2-3/E">E</div>
+    <div class="stage-main-btn green" data-content="2-3/F">F</div>
+    <div class="stage-main-btn gray" data-content="2-3/G">G</div>
+    <div class="stage-main-btn gray" data-content="2-3/H">H</div>
+    <div class="stage-main-btn purple" data-content="2-3/I">I</div>
+    <div class="stage-main-btn red" data-content="2-3/J">J</div>
+    <div class="stage-main-btn blue" data-content="2-3/K">K</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过A点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-3|5}}
+|}
+
+==2-4 深海扶桑基地==
+
+[[文件:NewMap 2-4.jpg|600px|缩略图|2-4 深海扶桑基地]]
+*压制任务条件：轻巡≥2
+*舰船基础经验值：200
+*玩家基础经验值：60
+*战利品权重：30/40/50
+
+<br clear="all"/>
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/A"
+{{#invoke:敌舰2|阵容|2-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/B"
+{{#invoke:敌舰2|阵容|2-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/C"
+{{#invoke:敌舰2|阵容|2-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/D"
+{{#invoke:敌舰2|阵容|2-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/E"
+{{#invoke:敌舰2|阵容|2-4/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/F"
+| F || colspan=12 | 弹+40 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/G"
+{{#invoke:敌舰2|阵容|2-4/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/H"
+{{#invoke:敌舰2|阵容|2-4/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/I"
+{{#invoke:敌舰2|阵容|2-4/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/J"
+{{#invoke:敌舰2|阵容|2-4/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/K"
+| K || colspan=12 | 弹+40 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-4/L"
+{{#invoke:敌舰2|阵容|2-4/L|L<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="2-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="2-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="2-4/D">D</div>
+    <div class="stage-main-btn gray" data-content="2-4/E">E</div>
+    <div class="stage-main-btn green" data-content="2-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="2-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="2-4/H">H</div>
+    <div class="stage-main-btn gray" data-content="2-4/I">I</div>
+    <div class="stage-main-btn gray" data-content="2-4/J">J</div>
+    <div class="stage-main-btn green" data-content="2-4/K">K</div>
+    <div class="stage-main-btn red" data-content="2-4/L">L</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得B胜以下无法前进（可以通过A点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-4|5}}
+|}
+
+==2-5 深海前哨核心地区==
+
+[[文件:NewMap_2-5.jpg|600px|缩略图|2-5 深海前哨核心地区]]
+*压制任务条件：无
+*舰船基础经验值：400
+*玩家基础经验值：100
+*战利品权重：60/100/150
+
+2-5的难度相较于第二章的其他海域要难不少，打捞产物主要以日系舰船为主，也可以打捞[[鲃鱼]]和[[鹦鹉螺]]等稀有潜艇。[[金刚]]和[[比睿]]只能在2-5打捞，没有其他获得方式。
+
+2-5是唯一一张有多个BOSS点的图，打开战役支援的“奇迹”或者“幸运之星”掉落加成时，会随机选取某一个BOSS点的掉落列表。因此在打捞道中特定点位掉落的[[金刚]]时，不能开战役支援。
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/A"
+{{#invoke:敌舰2|阵容|2-5/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/B"
+{{#invoke:敌舰2|阵容|2-5/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/C"
+|C || colspan=12 | 待机 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/D"
+{{#invoke:敌舰2|阵容|2-5/D|D<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/E"
+|E || colspan=12 | 铝-9 
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/F"
+{{#invoke:敌舰2|阵容|2-5/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/G"
+{{#invoke:敌舰2|阵容|2-5/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/H"
+{{#invoke:敌舰2|阵容|2-5/H|H<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/I"
+{{#invoke:敌舰2|阵容|2-5/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/J"
+{{#invoke:敌舰2|阵容|2-5/J|J<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/K"
+{{#invoke:敌舰2|阵容|2-5/K|K<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/L"
+{{#invoke:敌舰2|阵容|2-5/L|L<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/M"
+{{#invoke:敌舰2|阵容|2-5/M|M<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/N"
+{{#invoke:敌舰2|阵容|2-5/N|N<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-5/O"
+{{#invoke:敌舰2|阵容|2-5/O|O<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-5/A">A</div>
+    <div class="stage-main-btn gray" data-content="2-5/B">B</div>
+    <div class="stage-main-btn blue" data-content="2-5/C">C</div>
+    <div class="stage-main-btn livid" data-content="2-5/D">D</div>
+    <div class="stage-main-btn purple" data-content="2-5/E">E</div>
+    <div class="stage-main-btn gray" data-content="2-5/F">F</div>
+    <div class="stage-main-btn gray" data-content="2-5/G">G</div>
+    <div class="stage-main-btn livid" data-content="2-5/H">H</div>
+    <div class="stage-main-btn gray" data-content="2-5/I">I</div>
+    <div class="stage-main-btn red" data-content="2-5/J">J</div>
+    <div class="stage-main-btn livid" data-content="2-5/K">K</div>
+    <div class="stage-main-btn red" data-content="2-5/L">L</div>
+    <div class="stage-main-btn red" data-content="2-5/M">M</div>
+    <div class="stage-main-btn red" data-content="2-5/N">N</div>
+    <div class="stage-main-btn red" data-content="2-5/O">O</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得A胜以下无法前进（可以通过H点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-5|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-5|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-5|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-5|5}}
+|-
+| 特殊 || 需要在特定节点取得A评价或以上。
+
+F：{{彩色链接|金刚}}，G：{{彩色链接|飞龙}}，J：{{彩色链接|陆奥}}，L：{{彩色链接|苍龙}}，M：{{彩色链接|比睿}}，N：{{彩色链接|长门}}，O：{{彩色链接|岛风(岛风型驱逐舰)}}
+|}
+
+==2-6 深海前哨北方地区==
+[[文件:NewMap 2-6.jpg|600px|缩略图|2-6 深海前哨北方地区]]
+*压制任务条件：战巡≥2
+*舰船基础经验值：450
+*玩家基础经验值：120
+*战利品权重：60/100/150
+
+依旧是以日系舰船打捞为主的海域，但2-6相比于2-5来说特有的打捞船就少了很多。[[香取]]只能在这个图打捞。
+<br clear="all"/>
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/A"
+{{#invoke:敌舰2|阵容|2-6/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/B"
+{{#invoke:敌舰2|阵容|2-6/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/C"
+|C||colspan=12|钢-90
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/D"
+{{#invoke:敌舰2|阵容|2-6/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/E"
+{{#invoke:敌舰2|阵容|2-6/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/F"
+{{#invoke:敌舰2|阵容|2-6/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/G"
+{{#invoke:敌舰2|阵容|2-6/G|G<br/>迂回}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/H"
+|H||colspan=12|钢+90
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/I"
+{{#invoke:敌舰2|阵容|2-6/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/J"
+{{#invoke:敌舰2|阵容|2-6/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/K"
+{{#invoke:敌舰2|阵容|2-6/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/L"
+{{#invoke:敌舰2|阵容|2-6/L|L<br/>BOSS}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="2-6/M"
+{{#invoke:敌舰2|阵容|2-6/M}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="2-6/A">A</div>
+    <div class="stage-main-btn gray" data-content="2-6/B">B</div>
+    <div class="stage-main-btn purple" data-content="2-6/C">C</div>
+    <div class="stage-main-btn gray" data-content="2-6/D">D</div>
+    <div class="stage-main-btn gray" data-content="2-6/E">E</div>
+    <div class="stage-main-btn gray" data-content="2-6/F">F</div>
+    <div class="stage-main-btn livid" data-content="2-6/G">G</div>
+    <div class="stage-main-btn gray" data-content="2-6/H">H</div>
+    <div class="stage-main-btn gray" data-content="2-6/I">I</div>
+    <div class="stage-main-btn gray" data-content="2-6/J">J</div>
+    <div class="stage-main-btn gray" data-content="2-6/K">K</div>
+    <div class="stage-main-btn red" data-content="2-6/L">L</div>
+    <div class="stage-main-btn gray" data-content="2-6/M">M</div>
+</div>
+</div>
+
+;特殊情况
+
+战利品活动期间可能会出现以下封锁战况：
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤，敌方全体射程变更为长。战斗需要取得A胜以下无法前进（可以通过G点取得S胜削弱）
+*削弱后：我方主力舰火力+15，护卫舰索敌+5，大型船装甲+15，中型船命中+15，小型船闪避+15
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|2-6|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|2-6|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|2-6|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|2-6|5}}
+|-
+| 特殊 || 需要在特定节点取得A评价或以上。
+
+M：{{彩色链接|白露}}
+|}
+
+==地图考据==
+在第一章中我们肃清了中国东部海域后，就来到了第二章的扶桑（日本代称）相关海域。
+
+考据声明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断。
+
+{| class="wikitable"
+|-
+! 2-1 !! 2-2 !! 2-3
+|-
+|[[文件:壹岐岛.png|x200px]]
+|[[文件:长崎.png|x200px]]
+|[[文件:冲绳.png|x200px]]
+|-
+|根据地图名，西部海域的话，直接就沿着日本西部海岸线找就行了，符合海峡、海岸线西北方岛屿这两个条件的，也就只有日本北九州与下关之间的关门海峡与壹岐岛附近海域了，不过就如上所说，HM对地图进行了修改，超时空位移和拓海都来了。
+|西南海域，根据名字线索、岛屿形状以及内海特征，基本锁定原型位于长崎外海区域。其中游戏地图北方岛屿为五岛市（五岛合一了），游戏地图南方岛屿为甑岛，中间的岛屿为虚构，而在长崎内海有名海中的大岛为下岛。
+|地图最大的特征就是大陆海岸线和三岛分列，所以说基本锁定为福建外海与冲绳岛海域了，如图所示。另外吐槽下冲绳都快位移到福建旁边了。
+|-
+! 2-4 !! 2-5 !! 2-6
+|-
+|[[文件:广岛.png|x200px]]
+|[[文件:和歌山湾.png|x200px]]
+|[[文件:北海道.png|x200px]]
+|-
+|深海扶桑基地，根据地图轮廓非常显而易见的，其原型就是对应濑户内海西的广岛海域了。其中游戏地图中的I点就是广岛的吴港，旁边就是江田岛了。（好，很有精神）
+|根据二图是集中在日本地区，所以2-5说是深海前哨核心地区应该还是位于日本的海域周边。该地图的特点为左右两岸，对比海岸线形状特征和航路分布，原型大概率为大阪湾下方的和歌山湾海域，左岸突出与右岸双凹陷为佐证。
+|按照地图名北方海域，所以重点集中在日本的北部海域。游戏地图的特征为右侧为一个大岛，与下方的岛屿延伸中掺夹着多一个岛屿。基于都是岛屿特征基本排除了本州海岸线，唯一的解释就是北海道与北方四岛的结合体并魔改布置了，形态也大致类似。出发点就大致位于库页岛南部海域。
+|}
+
+{{总索引|海域}}

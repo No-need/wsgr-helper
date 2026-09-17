@@ -1,0 +1,597 @@
+{{导航}}
+{{掉落分级}}
+==海域特征==
+本海域开始出现封锁战况，即在玩家初次探索该海域时会遇到加强敌方的debuff，必须先击破指定点才可以去除debuff，否则会非常难打。并且，在一些节点进入战斗前会也出现额外的战况选项，选择的战况会影响本次出征接下来的所有战斗。
+
+由于以上原因，本海域如果没有高练度的航母大炮编队或者导弹队非常不好过。关卡8-5是进入主线推图后期之前的最后一关，难度很高。
+
+此外，本海域有很多练级点，并盛产大量狗粮，也有只有这里才能捞到的稀有船。适合dalao在此捞船、捞狗粮、提升舰队实力或为攻略活动限定海域做准备。
+
+==8-1 百慕大中心海域==
+[[文件:NewMap 8-1.jpg|600px|缩略图|8-1 百慕大中心海域]]
+
+*压制任务条件：驱逐≥2
+*舰船基础经验值：600
+*玩家基础经验值：190
+*战利品权重：90/160/250
+8-1A是继6-1A之后的第二个炸鱼点，并且没有制空要求，掉落质量也不低。
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/A"
+{{#invoke:敌舰2|阵容|8-1/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/B"
+{{#invoke:敌舰2|阵容|8-1/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/C"
+{{#invoke:敌舰2|阵容|8-1/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/D"
+{{#invoke:敌舰2|阵容|8-1/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/E"
+{{#invoke:敌舰2|阵容|8-1/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/F"
+{{#invoke:敌舰2|阵容|8-1/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/G"
+{{#invoke:敌舰2|阵容|8-1/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/H"
+{{#invoke:敌舰2|阵容|8-1/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/I"
+{{#invoke:敌舰2|阵容|8-1/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/J"
+{{#invoke:敌舰2|阵容|8-1/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/K"
+{{#invoke:敌舰2|阵容|8-1/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-1/L"
+{{#invoke:敌舰2|阵容|8-1/L|L<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="8-1/A">A</div>
+    <div class="stage-main-btn gray" data-content="8-1/B">B</div>
+    <div class="stage-main-btn gray" data-content="8-1/C">C</div>
+    <div class="stage-main-btn gray" data-content="8-1/D">D</div>
+    <div class="stage-main-btn gray" data-content="8-1/E">E</div>
+    <div class="stage-main-btn gray" data-content="8-1/F">F</div>
+    <div class="stage-main-btn gray" data-content="8-1/G">G</div>
+    <div class="stage-main-btn gray" data-content="8-1/H">H</div>
+    <div class="stage-main-btn gray" data-content="8-1/I">I</div>
+    <div class="stage-main-btn gray" data-content="8-1/J">J</div>
+    <div class="stage-main-btn gray" data-content="8-1/K">K</div>
+    <div class="stage-main-btn red" data-content="8-1/L">L</div>
+</div>
+</div>
+;额外战况选项
+
+{| class="wikitable"
+|-
+!战斗点!! colspan="1" |选项1!! colspan="1" |选项2!! colspan="1" |选项3!! colspan="1" |选项4!! colspan="1" |选项5
+|-
+|E||全队命中+15，装甲-10||全队装甲、回避+10，火力-10||全队火力+15，命中-10||U国舰船火力+15，装甲-10||U国舰船火力+15，装甲-10
+|-
+|{{color|orange|G}}||全队索敌+5，火力-5||全队回避+10，装甲-10||全队航速+3，回避-5||全队对空+10，回避-5||全队装甲+10，回避-10
+|-
+|{{color|red|L}}||航母火力+10，驱逐回避-10||驱逐回避、对空+10||战列火力+10，航母火力-10||轻巡和重巡火力+10，命中+10||潜艇鱼雷+10，航母、战列火力-5
+|}
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|8-1|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|8-1|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|8-1|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|8-1|5}}
+|}
+
+==8-2 百慕大南群岛==
+[[文件:NewMap 8-2.jpg|600px|缩略图|8-2 百慕大南群岛]]
+
+*压制任务条件：战巡≥2
+*舰船基础经验值：600
+*玩家基础经验值：190
+*战利品权重：70/120/180
+8-2A也是一个优秀的炸鱼点，与8-1A一样。8-2B、J的二连航空战点是练航系的好地方。8-2C的敌方强度很低，可以练炮队或者重巡。
+
+<br clear="all"/>
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/A"
+{{#invoke:敌舰2|阵容|8-2/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/B"
+{{#invoke:敌舰2|阵容|8-2/B|B<br/>航空战}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/C"
+{{#invoke:敌舰2|阵容|8-2/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/D"
+{{#invoke:敌舰2|阵容|8-2/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/E"
+{{#invoke:敌舰2|阵容|8-2/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/F"
+{{#invoke:敌舰2|阵容|8-2/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/G"
+{{#invoke:敌舰2|阵容|8-2/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/H"
+{{#invoke:敌舰2|阵容|8-2/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/I"
+{{#invoke:敌舰2|阵容|8-2/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/J"
+{{#invoke:敌舰2|阵容|8-2/J|J<br/>航空战}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/K"
+{{#invoke:敌舰2|阵容|8-2/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/L"
+{{#invoke:敌舰2|阵容|8-2/L}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-2/M"
+{{#invoke:敌舰2|阵容|8-2/M|M<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="8-2/A">A</div>
+    <div class="stage-main-btn light" data-content="8-2/B">B</div>
+    <div class="stage-main-btn gray" data-content="8-2/C">C</div>
+    <div class="stage-main-btn gray" data-content="8-2/D">D</div>
+    <div class="stage-main-btn gray" data-content="8-2/E">E</div>
+    <div class="stage-main-btn gray" data-content="8-2/F">F</div>
+    <div class="stage-main-btn gray" data-content="8-2/G">G</div>
+    <div class="stage-main-btn gray" data-content="8-2/H">H</div>
+    <div class="stage-main-btn gray" data-content="8-2/I">I</div>
+    <div class="stage-main-btn light" data-content="8-2/J">J</div>
+    <div class="stage-main-btn gray" data-content="8-2/K">K</div>
+    <div class="stage-main-btn gray" data-content="8-2/L">L</div>
+    <div class="stage-main-btn red" data-content="8-2/M">M</div>
+</div>
+</div>
+
+;地图封锁战况
+
+*封锁战况：战列、战巡火力、装甲-40，战斗需要取得S胜才能继续前进（可以通过G、H两点分别取得S胜削弱）。
+*削弱后：战列、战巡火力、装甲-10，战斗需要取得B胜及以上才能继续前进。
+
+;额外战况选项
+
+{| class="wikitable"
+|-
+!战斗点!! colspan="1" |选项1!! colspan="1" |选项2!! colspan="1" |选项3!! colspan="1" |选项4!! colspan="1" |选项5
+|-
+|B||全队航速-5，火力、命中+5||全队火力+15，回避、装甲、对空-15||全队火力、命中-10，回避、装甲+15||全队命中+20，回避、装甲-10||全队回避+20，命中、火力-10
+|}
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|8-2|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|8-2|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|8-2|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|8-2|5}}
+|}
+
+==8-3 北加勒比海域==
+[[文件:NewMap 8-3.jpg|600px|缩略图|8-3 北加勒比海域]]
+*压制任务条件：轻巡≥2
+*舰船基础经验值：600
+*玩家基础经验值：190
+*战利品权重：70/120/180
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/A"
+{{#invoke:敌舰2|阵容|8-3/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/B"
+{{#invoke:敌舰2|阵容|8-3/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/C"
+{{#invoke:敌舰2|阵容|8-3/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/D"
+{{#invoke:敌舰2|阵容|8-3/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/E"
+{{#invoke:敌舰2|阵容|8-3/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/F"
+{{#invoke:敌舰2|阵容|8-3/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/G"
+{{#invoke:敌舰2|阵容|8-3/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/H"
+{{#invoke:敌舰2|阵容|8-3/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/I"
+{{#invoke:敌舰2|阵容|8-3/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/J"
+{{#invoke:敌舰2|阵容|8-3/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/K"
+{{#invoke:敌舰2|阵容|8-3/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/K*"
+{{#invoke:敌舰2|阵容|8-3/K*|K*}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-3/L"
+{{#invoke:敌舰2|阵容|8-3/L|L<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="8-3/A">A</div>
+    <div class="stage-main-btn gray" data-content="8-3/B">B</div>
+    <div class="stage-main-btn gray" data-content="8-3/C">C</div>
+    <div class="stage-main-btn gray" data-content="8-3/D">D</div>
+    <div class="stage-main-btn gray" data-content="8-3/E">E</div>
+    <div class="stage-main-btn gray" data-content="8-3/F">F</div>
+    <div class="stage-main-btn gray" data-content="8-3/G">G</div>
+    <div class="stage-main-btn gray" data-content="8-3/H">H</div>
+    <div class="stage-main-btn gray" data-content="8-3/I">I</div>
+    <div class="stage-main-btn gray" data-content="8-3/J">J</div>
+    <div class="stage-main-btn gray" data-content="8-3/K">K</div>
+    <div class="stage-main-btn gray" data-content="8-3/K*">K*</div>
+    <div class="stage-main-btn red" data-content="8-3/L">L</div>
+</div>
+</div>
+
+当在K点取得S胜后，K点敌方配置会更换为K*。
+
+;地图封锁战况
+
+*封锁战况：敌方重巡、轻巡的攻击必定命中；敌方驱逐可以进行开幕雷击；敌方在航空战阶段，伤害提高50%，受到伤害降低50%。战斗需要取得S胜才能继续前进（可以通过K点取得S胜削弱）。
+*削弱后：敌方航母、轻母、驱逐射程提高为长；敌方航母、轻母、装母可以参加夜战；敌方在炮击战阶段，伤害提高20%，受到伤害降低30%。战斗需要取得B胜及以上才能继续前进。
+
+;额外战况选项
+
+{| class="wikitable"
+|-
+!战斗点!! colspan="1" |选项1!! colspan="1" |选项2!! colspan="1" |选项3!! colspan="1" |选项4!! colspan="1" |选项5
+|-
+|B||战巡火力+20，回避-10||重巡火力+20，装甲-15||战列火力+20，命中-10||航母、轻母火力+20，命中、装甲、闪避-10||敌方全体火力+20
+|-
+|H||护卫舰火力、索敌+10，装甲、回避-15||小型船命中+20，索敌+10，火力-30、装甲-10||主力舰火力-15，装甲、回避+10||敌方主力舰命中+10，火力+5||敌方护卫舰闪避+10，装甲+10
+|}
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|8-3|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|8-3|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|8-3|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|8-3|5}}
+|}
+
+==8-4 东部海岸群岛==
+[[文件:NewMap 8-4.jpg|600px|缩略图|8-4 东部海岸群岛]]
+*压制任务条件：战列≥2
+*舰船基础经验值：600
+*玩家基础经验值：190
+*战利品权重：90/150/200
+
+<br clear="all"/>
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/A"
+{{#invoke:敌舰2|阵容|8-4/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/B"
+{{#invoke:敌舰2|阵容|8-4/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/C"
+{{#invoke:敌舰2|阵容|8-4/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/D"
+{{#invoke:敌舰2|阵容|8-4/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/E"
+{{#invoke:敌舰2|阵容|8-4/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/F"
+{{#invoke:敌舰2|阵容|8-4/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/G"
+{{#invoke:敌舰2|阵容|8-4/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/H"
+{{#invoke:敌舰2|阵容|8-4/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/I"
+{{#invoke:敌舰2|阵容|8-4/I}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/J"
+{{#invoke:敌舰2|阵容|8-4/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/K"
+{{#invoke:敌舰2|阵容|8-4/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/L"
+{{#invoke:敌舰2|阵容|8-4/L}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-4/M"
+{{#invoke:敌舰2|阵容|8-4/M|M<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="8-4/A">A</div>
+    <div class="stage-main-btn gray" data-content="8-4/B">B</div>
+    <div class="stage-main-btn gray" data-content="8-4/C">C</div>
+    <div class="stage-main-btn gray" data-content="8-4/D">D</div>
+    <div class="stage-main-btn gray" data-content="8-4/E">E</div>
+    <div class="stage-main-btn gray" data-content="8-4/F">F</div>
+    <div class="stage-main-btn gray" data-content="8-4/G">G</div>
+    <div class="stage-main-btn gray" data-content="8-4/H">H</div>
+    <div class="stage-main-btn gray" data-content="8-4/I">I</div>
+    <div class="stage-main-btn gray" data-content="8-4/J">J</div>
+    <div class="stage-main-btn gray" data-content="8-4/K">K</div>
+    <div class="stage-main-btn gray" data-content="8-4/L">L</div>
+    <div class="stage-main-btn red" data-content="8-4/M">M</div>
+</div>
+</div>
+;地图封锁战况
+
+*封锁战况：敌方舰队每存活一个非旗舰单位都会为旗舰提供10%减伤。战斗需要取得S胜才能继续前进（可以通过K点取得S胜削弱）。
+*削弱后：敌方舰队每存活一个非旗舰单位都会为旗舰提供5%减伤。战斗需要取得B胜及以上才能继续前进。
+
+;额外战况选项
+
+{| class="wikitable"
+|-
+!战斗点!! colspan="1" |选项1!! colspan="1" |选项2!! colspan="1" |选项3!! colspan="1" |选项4!! colspan="1" |选项5
+|-
+|D||全体命中+15，装甲-10||全体装甲+15，闪避-10||全体火力+15，命中-10||全体闪避+15，命中-10||全体火力、装甲+15，闪避、命中-10
+|-
+|H||战巡火力+20，闪避-20||航母暴击率+10%，闪避-20||战列装甲+20，火力-20||小型船装甲+20，命中-20||护卫舰闪避+20，装甲-20
+|}
+
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|8-4|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|8-4|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|8-4|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|8-4|5}}
+|}
+
+==8-5 地峡海湾==
+[[文件:NewMap 8-5.jpg|600px|缩略图|8-5 地峡海湾]]
+*压制任务条件：重巡≥2
+*舰船基础经验值：600
+*玩家基础经验值：190
+*战利品权重：100/160/260
+8-5I是夜战点，而且敌方没有任何还手能力，是练潜艇的好地方。
+
+<br clear="all"/>
+
+===敌方阵容===
+<div class="deskOnly">
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+|- style="position:sticky; top:0;"
+!位置!!阵形!! colspan="6" |配置!!索敌!!制空!!空优!!空确!!作战航速
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/A"
+{{#invoke:敌舰2|阵容|8-5/A}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/B"
+{{#invoke:敌舰2|阵容|8-5/B}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/C"
+{{#invoke:敌舰2|阵容|8-5/C}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/D"
+{{#invoke:敌舰2|阵容|8-5/D}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/E"
+{{#invoke:敌舰2|阵容|8-5/E}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/F"
+{{#invoke:敌舰2|阵容|8-5/F}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/G"
+{{#invoke:敌舰2|阵容|8-5/G}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/H"
+{{#invoke:敌舰2|阵容|8-5/H}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/I"
+{{#invoke:敌舰2|阵容|8-5/I|I<br/>夜战}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/J"
+{{#invoke:敌舰2|阵容|8-5/J}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/K"
+{{#invoke:敌舰2|阵容|8-5/K}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/L"
+{{#invoke:敌舰2|阵容|8-5/L}}
+|- style="background-color:#888" 
+|colspan=13|
+|- id="8-5/M"
+{{#invoke:敌舰2|阵容|8-5/M|M<br/>BOSS}}
+|}
+</div>
+<div class="mobileOnly">
+<div class="stage-buttons-container">
+    <div class="stage-main-btn gray" data-content="8-5/A">A</div>
+    <div class="stage-main-btn gray" data-content="8-5/B">B</div>
+    <div class="stage-main-btn gray" data-content="8-5/C">C</div>
+    <div class="stage-main-btn gray" data-content="8-5/D">D</div>
+    <div class="stage-main-btn gray" data-content="8-5/E">E</div>
+    <div class="stage-main-btn gray" data-content="8-5/F">F</div>
+    <div class="stage-main-btn gray" data-content="8-5/G">G</div>
+    <div class="stage-main-btn gray" data-content="8-5/H">H</div>
+    <div class="stage-main-btn dark" data-content="8-5/I">I</div>
+    <div class="stage-main-btn gray" data-content="8-5/J">J</div>
+    <div class="stage-main-btn gray" data-content="8-5/K">K</div>
+    <div class="stage-main-btn gray" data-content="8-5/L">L</div>
+    <div class="stage-main-btn red" data-content="8-5/M">M</div>
+</div>
+</div>
+;地图封锁战况
+
+*封锁战况：敌方舰队旗舰存活时，为所有非旗舰单位提供30%减伤；航母、轻母火力-40。战斗需要取得S胜才能继续前进（可以通过J点取得S胜削弱）。
+*削弱后：敌方舰队旗舰存活时，为所有非旗舰单位提供10%减伤；航母、轻母装甲-10。战斗需要取得B胜才能继续前进。
+===掉落分布===
+{| class="wikitable"
+|-
+! width=80px | 掉落等级 !! 掉落列表
+|-
+| 普通 || {{#invoke:掉落|掉落列表|8-5|1}}
+|-
+| 少见 || {{#invoke:掉落|掉落列表|8-5|3}}
+|-
+| 稀有 || {{#invoke:掉落|掉落列表|8-5|4}}
+|-
+| 限定 || {{#invoke:掉落|掉落列表|8-5|5}}
+|}
+
+==地图考据==
+本章的名字为“百慕大海域”，百慕大应该不需要太过多介绍，相信大部分人都听说过百慕大三角以及各种船只失踪的事件，这里的百慕大三角指的是由百慕大群岛、美国迈阿密以及波多黎各三个地方连成的大西洋三角形海域。这个三角形近似为等边三角形，每边约长2000公里。
+
+常规说明，根据你游地图的绘画特性，部分地图会对三次元世界的海岸线与岛屿轮廓做出修改，甚至可能出现超时空位移的情况。所以考证基本原则是通过海岸线特征、海岸-岛屿分布特征、海域特征等对原型做出判断。
+
+{{隐藏|标题 = 百慕大三角海域|内容 = [[File:bermuda_1.jpeg|500px]]}}
+
+{| class="wikitable"
+|-
+! 8-1 !! 8-2 !! 8-3
+|-
+|[[File:截屏2024-08-20 09.11.06.png|x200px]]
+|[[文件:克鲁克德岛.png|x200px]]
+|[[文件:伯利兹.png|x200px]]
+|-
+|8-1的原型很好找，就位于美国佛罗里达迈阿密的东部沿海海域，其中左边是佛罗里达半岛的东侧海岸线，而它右侧两条画着红线的则是大马哈马岛和大阿巴科岛。
+|根据游戏内地图特征与卫星地图对照，可以发现8-2位于巴哈马的岛屿克鲁克德岛，位于长岛东南方。岛的东北方向为萨马那岛，岛的正东边为所属普那拉礁，附属岛屿符合特征。
+|对照卫星地图未能发现完全符合特征的岛屿或区域特征。但是根据地图名字描述，以及游戏地图左边为大陆海岸线，以及拥有海湾的岛屿，推测原型地大致位于伯利兹国的伯利兹城的东部海域，也许HM对其进行了改图。
+|-
+! 8-4 !! 8-5
+|-
+|[[文件:古巴海地.png|x200px]]
+|[[文件:尼加拉瓜.png|x200px]]
+|-
+|通过地图名字与海域特征，就很容易发现地图原型位于古巴、牙买加与海地之间的风向海峡与牙买加海峡海域。不过游戏地图海岸线做进行了修改，但是结合水文特征还是可以看得出来大致区域。
+|根据游戏地图内的沿岸长滩与海域零星岛屿分析，可以找出原型地位于尼加拉瓜东海岸的马伊斯群岛附近，如卫星地图所示。
+|}
+
+{{总索引|海域}}
