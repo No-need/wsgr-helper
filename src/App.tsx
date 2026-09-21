@@ -6,6 +6,7 @@ import { bossReach, ReverseView } from './components/ReverseView';
 import { mapIds } from './lib/data';
 import { fleetStats } from './lib/fleet';
 import { useAppState } from './lib/store';
+import { track } from './lib/analytics';
 
 type Tab = 'map' | 'reverse' | 'farm';
 
@@ -34,7 +35,10 @@ export default function App() {
         <h1>戰艦少女R 帶路助手</h1>
         <nav>
           {TABS.map((tb) => (
-            <button key={tb.id} className={tab === tb.id ? 'tab on' : 'tab'} onClick={() => setTab(tb.id)}>
+            <button key={tb.id} className={tab === tb.id ? 'tab on' : 'tab'} onClick={() => {
+                setTab(tb.id);
+                track('switch_tab', { tab: tb.id });
+              }}>
               {tb.label}
             </button>
           ))}
@@ -43,7 +47,15 @@ export default function App() {
       <div className="layout">
         <FleetPanel app={app} stats={stats} />
         <main>
-          {tab === 'map' && <MapView fleet={stats} mapId={mapId} onMap={setMapId} bossP={bossP} />}
+          {tab === 'map' && <MapView
+              fleet={stats}
+              mapId={mapId}
+              onMap={(id) => {
+                setMapId(id);
+                track('view_map', { map: id });
+              }}
+              bossP={bossP}
+            />}
           {tab === 'reverse' && <ReverseView fleet={stats} onOpen={openMap} />}
           {tab === 'farm' && <FarmView fleet={stats} onOpen={openMap} />}
         </main>

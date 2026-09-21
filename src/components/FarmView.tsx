@@ -5,6 +5,7 @@ import type { FleetStats } from '../lib/fleet';
 import { CATEGORY_NAME, TIER_NAME } from '../lib/mapinfo';
 import { pct, t } from '../lib/text';
 import { ShipPicker } from './ShipPicker';
+import { track } from '../lib/analytics';
 
 interface Props {
   fleet: FleetStats;
@@ -32,7 +33,10 @@ export function FarmView({ fleet, onOpen }: Props) {
   return (
     <div className="farm">
       <div className="toolbar">
-        <ShipPicker pool={droppable} onPick={(s) => setShip(s.name)} placeholder="想撈哪艘船?(僅列出有掉落的艦船)" />
+        <ShipPicker pool={droppable} onPick={(s) => {
+            setShip(s.name);
+            track('farm_search', { ship: s.name });
+          }} placeholder="想撈哪艘船?(僅列出有掉落的艦船)" />
         <label>
           <input type="checkbox" checked={tryDetour} onChange={(e) => setTryDetour(e.target.checked)} /> 迂迴點嘗試迂迴
         </label>
